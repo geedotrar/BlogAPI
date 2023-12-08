@@ -1,3 +1,8 @@
+# --Run Project--
+  1.npm install
+  2.npm start
+
+
 # --AUTH--
   # 1.User Registration http://localhost:5000/users
   ![register-sukes](https://github.com/geedotrar/BlogAPI/assets/104245694/ea62d389-288e-4b0f-8956-8650d26601d2)
